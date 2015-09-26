@@ -9,7 +9,7 @@ This repo contains:
 * 1. README.md - explains how all of the scripts in the repo work and how they are connected.
 * 2. run_analysis.R - script for performing the analysis
 * 3. CodeBook.md - a code book that describes the variables, the data, and any transformations or work that was performed to clean up the data 
-* 4. tidyData.txt - a tidy data set which can be read in R using: df <- read.table("tidyData.txt", header = TRUE); View(df)
+* 4. tidy_data.txt - a tidy data set which can be read in R using: df <- read.table("tidy_data.txt", header = TRUE); View(df)
 
 The run_analysis.R does the following in order to create the tidy data from the raw data:
 
